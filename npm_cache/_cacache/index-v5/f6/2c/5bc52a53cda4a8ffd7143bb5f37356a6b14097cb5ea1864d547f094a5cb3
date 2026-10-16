@@ -1,0 +1,2 @@
+
+efd17572615f77f87a226849a78bb870b0e482f0	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/gopd","integrity":null,"time":1792115078955,"size":"262","metadata":{"time":1792115078955,"url":"http://registry.npmmirror.com/gopd","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:38 GMT","location":"https://registry.npmmirror.com/gopd"},"options":{"compress":true},"status":301}}

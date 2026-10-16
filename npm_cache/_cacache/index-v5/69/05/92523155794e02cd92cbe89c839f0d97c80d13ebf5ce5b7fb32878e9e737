@@ -1,0 +1,2 @@
+
+92e2f2cb00077d99097364406926ea52f3ed037b	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/busboy","integrity":null,"time":1792115021925,"size":"262","metadata":{"time":1792115021924,"url":"http://registry.npmmirror.com/busboy","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:43:41 GMT","location":"https://registry.npmmirror.com/busboy"},"options":{"compress":true},"status":301}}

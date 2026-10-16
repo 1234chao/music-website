@@ -1,0 +1,2 @@
+
+91b815088b05551b5326f3a43fbf15474b215980	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/side-channel-map","integrity":null,"time":1792115078707,"size":"262","metadata":{"time":1792115078707,"url":"http://registry.npmmirror.com/side-channel-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/side-channel-map"},"options":{"compress":true},"status":301}}

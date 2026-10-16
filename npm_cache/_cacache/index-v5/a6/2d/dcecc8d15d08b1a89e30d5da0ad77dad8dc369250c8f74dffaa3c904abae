@@ -1,0 +1,2 @@
+
+1dd949fdd899c6c723e259145697c07305732a11	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/dunder-proto","integrity":null,"time":1792115079092,"size":"262","metadata":{"time":1792115079092,"url":"http://registry.npmmirror.com/dunder-proto","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:38 GMT","location":"https://registry.npmmirror.com/dunder-proto"},"options":{"compress":true},"status":301}}

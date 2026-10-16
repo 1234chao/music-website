@@ -1,0 +1,2 @@
+
+86e8757744cdf49411c026c0ea8a59b9016754dc	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/side-channel-list","integrity":null,"time":1792115078712,"size":"262","metadata":{"time":1792115078712,"url":"http://registry.npmmirror.com/side-channel-list","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/side-channel-list"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+212176c0486c4583d5e64abab2d9ff89f2fec797	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/math-intrinsics","integrity":null,"time":1792115078955,"size":"262","metadata":{"time":1792115078955,"url":"http://registry.npmmirror.com/math-intrinsics","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:38 GMT","location":"https://registry.npmmirror.com/math-intrinsics"},"options":{"compress":true},"status":301}}

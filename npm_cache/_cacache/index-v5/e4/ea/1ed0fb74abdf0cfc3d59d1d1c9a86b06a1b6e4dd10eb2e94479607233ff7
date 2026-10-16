@@ -1,0 +1,2 @@
+
+394a24fad6514df3978912029dad0f8b2079dafa	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/debug","integrity":null,"time":1792115078067,"size":"262","metadata":{"time":1792115078067,"url":"http://registry.npmmirror.com/debug","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/debug"},"options":{"compress":true},"status":301}}

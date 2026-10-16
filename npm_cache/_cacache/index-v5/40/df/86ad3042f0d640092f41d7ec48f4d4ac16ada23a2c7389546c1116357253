@@ -1,0 +1,2 @@
+
+681301e028dd0f7761b56cd88629c4c07ef2fe74	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/cookie","integrity":null,"time":1792115078085,"size":"262","metadata":{"time":1792115078085,"url":"http://registry.npmmirror.com/cookie","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/cookie"},"options":{"compress":true},"status":301}}

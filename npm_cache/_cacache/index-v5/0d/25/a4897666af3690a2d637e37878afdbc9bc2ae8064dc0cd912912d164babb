@@ -1,0 +1,2 @@
+
+059982a839e0e4a4ea26c5ac6add10379f2cd42e	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/raw-body","integrity":null,"time":1792115078408,"size":"262","metadata":{"time":1792115078408,"url":"http://registry.npmmirror.com/raw-body","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/raw-body"},"options":{"compress":true},"status":301}}

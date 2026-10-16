@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的私人音乐库</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎶 私人音乐库</h1>
+            <!-- 搜索框 -->
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="搜索歌曲名字...">
+                <button onclick="searchMusic()">搜索</button>
+            </div>
+        </header>
+
+        <!-- 上传歌曲区域 -->
+        <div class="upload-card">
+            <h3>➕ 上传歌曲</h3>
+            <input type="text" id="songName" placeholder="填写歌曲名称">
+            <input type="file" id="audioFile" accept="audio/mp3,audio/*">
+            <button onclick="uploadSong()">上传保存</button>
+        </div>
+
+        <!-- 歌曲列表 -->
+        <div class="music-container">
+            <h2>歌单列表</h2>
+            <div id="musicList" class="music-grid"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

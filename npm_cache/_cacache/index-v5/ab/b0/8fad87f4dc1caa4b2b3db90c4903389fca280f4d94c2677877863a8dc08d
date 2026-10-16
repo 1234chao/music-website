@@ -1,0 +1,2 @@
+
+ef868b57ba42304fede31d541d75cf0dd688abb1	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/is-promise","integrity":null,"time":1792115078428,"size":"262","metadata":{"time":1792115078428,"url":"http://registry.npmmirror.com/is-promise","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/is-promise"},"options":{"compress":true},"status":301}}

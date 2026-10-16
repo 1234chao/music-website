@@ -1,0 +1,2 @@
+
+6071bc9104f14a7ee6469731a7505db55cf1fc9b	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/vary","integrity":null,"time":1792115078067,"size":"262","metadata":{"time":1792115078067,"url":"http://registry.npmmirror.com/vary","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/vary"},"options":{"compress":true},"status":301}}

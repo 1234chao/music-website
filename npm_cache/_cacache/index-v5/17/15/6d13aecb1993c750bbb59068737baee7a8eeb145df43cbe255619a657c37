@@ -1,0 +1,2 @@
+
+7ed7d43c9ee83cce9520abb55cc9b30dd4c1e72f	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/safer-buffer","integrity":null,"time":1792115078588,"size":"262","metadata":{"time":1792115078588,"url":"http://registry.npmmirror.com/safer-buffer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/safer-buffer"},"options":{"compress":true},"status":301}}

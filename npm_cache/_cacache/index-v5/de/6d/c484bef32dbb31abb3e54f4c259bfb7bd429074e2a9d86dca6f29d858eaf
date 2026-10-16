@@ -1,0 +1,2 @@
+
+bcc749fc100ae418f600893d54b8211b9de03a69	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/content-disposition","integrity":null,"time":1792115078254,"size":"262","metadata":{"time":1792115078253,"url":"http://registry.npmmirror.com/content-disposition","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/content-disposition"},"options":{"compress":true},"status":301}}

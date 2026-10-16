@@ -1,0 +1,2 @@
+
+7259051fedf60fe947628a9f3ffc3431ecc06aa5	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/iconv-lite","integrity":null,"time":1792115078402,"size":"262","metadata":{"time":1792115078402,"url":"http://registry.npmmirror.com/iconv-lite","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/iconv-lite"},"options":{"compress":true},"status":301}}

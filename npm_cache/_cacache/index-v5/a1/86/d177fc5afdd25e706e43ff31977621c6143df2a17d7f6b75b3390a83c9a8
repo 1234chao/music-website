@@ -1,0 +1,2 @@
+
+f21abeb552922524cba1f71ec5c8ab08407189d5	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/es-errors","integrity":null,"time":1792115078699,"size":"262","metadata":{"time":1792115078699,"url":"http://registry.npmmirror.com/es-errors","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/es-errors"},"options":{"compress":true},"status":301}}

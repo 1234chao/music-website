@@ -1,0 +1,2 @@
+
+e71721c19ffde4c6531adcb7d560558801228d23	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/proxy-addr","integrity":null,"time":1792115078093,"size":"262","metadata":{"time":1792115078093,"url":"http://registry.npmmirror.com/proxy-addr","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/proxy-addr"},"options":{"compress":true},"status":301}}

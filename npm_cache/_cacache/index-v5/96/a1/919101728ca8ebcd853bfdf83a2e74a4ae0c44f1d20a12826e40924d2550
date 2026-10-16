@@ -1,0 +1,2 @@
+
+aeeec6a99abe9ce4b8787d9c73d261e246bed962	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/has-symbols","integrity":null,"time":1792115078947,"size":"262","metadata":{"time":1792115078947,"url":"http://registry.npmmirror.com/has-symbols","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:38 GMT","location":"https://registry.npmmirror.com/has-symbols"},"options":{"compress":true},"status":301}}

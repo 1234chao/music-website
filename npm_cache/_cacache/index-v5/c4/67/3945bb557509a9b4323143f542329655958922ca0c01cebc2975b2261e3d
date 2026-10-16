@@ -1,0 +1,2 @@
+
+054e9529efd9dcc37eb27358a57a35c527613056	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/side-channel-weakmap","integrity":null,"time":1792115078712,"size":"262","metadata":{"time":1792115078712,"url":"http://registry.npmmirror.com/side-channel-weakmap","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/side-channel-weakmap"},"options":{"compress":true},"status":301}}

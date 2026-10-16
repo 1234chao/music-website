@@ -1,0 +1,2 @@
+
+2e621c1486295bcd0c80e4039ee3c6205402cb3e	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/once","integrity":null,"time":1792115078081,"size":"262","metadata":{"time":1792115078081,"url":"http://registry.npmmirror.com/once","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/once"},"options":{"compress":true},"status":301}}

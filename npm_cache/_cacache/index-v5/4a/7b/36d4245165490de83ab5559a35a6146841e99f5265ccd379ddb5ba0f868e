@@ -1,0 +1,2 @@
+
+bf7634db7c002d601db3b8d86bb0250166a240e2	{"key":"make-fetch-happen:request-cache:http://registry.npmmirror.com/unpipe","integrity":null,"time":1792115078584,"size":"262","metadata":{"time":1792115078584,"url":"http://registry.npmmirror.com/unpipe","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 16 Oct 2026 01:44:37 GMT","location":"https://registry.npmmirror.com/unpipe"},"options":{"compress":true},"status":301}}
